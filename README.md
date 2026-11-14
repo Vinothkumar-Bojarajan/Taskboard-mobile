@@ -2,23 +2,10 @@
 
 A small tasks + notes app for your Android phone. It installs from Chrome, opens full-screen like a normal app, works offline, and keeps all data on the phone.
 
-## One-time setup (about 10 minutes, easiest from a laptop)
+## One-time setup (about 2 minutes from your phone)
 
-1. **Create the repository**
-   - Go to github.com, click **New repository**.
-   - Name it `taskboard-mobile`.
-   - Choose **Public**. Free GitHub Pages needs a public repo. Only the app's code is public; your tasks and notes never leave your phone.
-   - Click **Create repository**.
-2. **Upload the files**
-   - Click **uploading an existing file**, or **Add file → Upload files**.
-   - Drag in all 7 files from this folder: `index.html`, `sw.js`, `manifest.webmanifest`, the three `icon-*.png` files and this README.
-   - Click **Commit changes**.
-3. **Turn on GitHub Pages**
-   - Go to **Settings → Pages**.
-   - Under *Build and deployment*, set Source to **Deploy from a branch**, Branch to **main**, and folder to **/ (root)**.
-   - Click **Save**, then wait 1–2 minutes. The page shows your site link.
-4. **Install on your phone**
-   - Open `https://<your-username>.github.io/taskboard-mobile/` in **Chrome** on the phone.
+**Install on your phone**
+   - Open `https://Vinothkumar-Bojarajan.github.io/taskboard-mobile/` in **Chrome** on the phone.
    - Tap **⋮** → **Install app** (on some phones it says **Add to Home screen → Install**).
    - Open TaskBoard from the home-screen icon. From now on it works without internet.
 
